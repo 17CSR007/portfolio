@@ -1,0 +1,44 @@
+Professional Summary
+Full-Stack Software Engineer with 4 years of experience in developing backend, frontend, and cloud-native application. Proficient in React, Angular, .NET Web API, AWS, Azure, CI/CD, Microservices, and Micro Frontends. Experienced in system migrations, cloud infrastructure automation, and AI-driven productivity tools. Recognized consistently for delivering high-impact solutions and driving critical initiatives.
+Key Skills
+• Frontend: React, Angular, TypeScript, JavaScript, Bootstrap, Tailwind, SCSS, CSS Flexbox, Grid, Storybook, Micro Frontends
+• Backend: ASP.NET Web API, Python Core, Flask, FastAPI, C#, .NET MVC, CQRS, Repository Pattern, Microservices
+• Cloud Platforms: AWS (Lambda, API Gateway, SQS, SNS, S3, CloudFormation, CDK, EC2, RDS, DynamoDB), Azure (Function Apps, App Services, Cosmos DB, Event Hub, Service Bus)
+• DevOps: GitHub Actions, Azure DevOps, CI/CD Pipelines, Docker, Kubernetes, NGINX, Terraform, Terragrunt
+• Databases: MSSQL, PostgreSQL, Dapper, Entity Framework, Snowflake, Redis
+• Tools & Technologies: Netlify, Electron, Postman, OpenAPI, OAuth2, Unit Testing, Jest, MSUnit, NUnit, Karma, Jasmine, TestBed, Dependabot, Release-Please, MCP Server, Tkinter
+• Artificial Intelligence & Emerging Tech: Agentic AI, LLM, Prompt Engineering, RAG, Fine Tuning
+• Other: WinForms, Microservice Communication, Protobuf Data Processing, Infrastructure Automation
+Professional Experience
+Optum — Software Development Engineer
+Dec 2024 – Present
+• Migrating legacy WinForms application to modern Micro Frontend React architecture.
+• Building microservices using ASP.NET Web API, deployed in Docker containers on AWS EC2.
+• Implementing CQRS pattern, GitHub Actions CI/CD, and infrastructure using Terraform and Terragrunt.
+• Led POCs using AI (Artificial Intelligence) for code review automation and Agentic AI workflows to boost productivity.
+• Developed utility tools for DB patching and automation using Python (Flask, Tkinter) and WinForms.
+• Used Storybook for component-level testing and Netlify sandbox previews for independent module deployment.
+Cognizant Technology Solutions — Associate
+Oct 2023 – Dec 2024 | Client: Caterpillar
+• Migrated services from Azure to AWS using Fargate, Lambda, SNS, SQS, S3, EventBridge.
+• Owned a complete microservice processing encoded Protobuf data streams, integrated with Cosmos DB (later migrated to DynamoDB).
+• Automated Cosmos DB to DynamoDB migration using Python.
+• Managed infrastructure setup with Azure ARM Templates and AWS CloudFormation.
+• Implemented Microservice health monitoring and auto-restart features with real-time alerting.
+Cognizant Technology Solutions — Programmer Analyst
+Jul 2022 – Oct 2023 | Client: Caterpillar
+• Contributed to Azure-to-AWS migration efforts with a focus on service decoupling and cloud-native optimizations.
+• Developed backend microservices and worked on proactive monitoring tools for DB sync, EventHub checks, and system health.
+Cognizant Technology Solutions — Programmer Analyst Trainee
+Jul 2021 – Jul 2022 | Client: Caterpillar
+• Part of the Azure WebJobs to Azure Function Apps migration team.
+• Enhanced microservice security using Managed Service Identity (MSI) and optimized message processing via Service Bus, EventHub, and Queues.
+• Supported MS SQL and Snowflake data pipelines and health checks.
+Education
+BE - Computer Science and Engineering
+Kongu Engineering College | Jun 2017 – Mar 2021
+Achievements
+• 2025 – 2026: Recognized by Product Owner for issue recreation and critical fixes.
+• 2024 – 2025: Appreciated by Scrum Master and Project Manager for Redis Cache Project.
+• 2023 – 2024: Awarded Star Performer during IoT Townhall for exceptional Q2 delivery. Multiple recognitions from stakeholders for impactful project contributions.
+• 2022 – 2023: Commended by Manager and Team Lead for resolving critical production issues and rapid upskilling with high-quality deliveries.
